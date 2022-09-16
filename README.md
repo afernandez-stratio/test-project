@@ -1,4 +1,3 @@
 # test-project
-rama1
+rama1-1
 commit1
-commit2
